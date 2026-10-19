@@ -1,0 +1,49 @@
+{
+    "design_summary": {
+        "software": "PhotonForge AI",
+        "performance_score": 0.994,
+        "optimization_time_ms": 69,
+        "candidates_tested": 1946,
+        "target_wavelength_nm": 520,
+        "incidence": "normal",
+        "total_physical_depth_nm": 357,
+        "total_optical_path_nm": 605
+    },
+    "layer_stack": [
+        {
+            "Layer": "Incident",
+            "Material": "Air",
+            "Refractive Index (n)": 1.0,
+            "Physical Thickness (nm)": 0,
+            "Optical Thickness (nm)": 0
+        },
+        {
+            "Layer": "Layer 1",
+            "Material": "MgF2 (Magnesium Fluoride)",
+            "Refractive Index (n)": 1.38,
+            "Physical Thickness (nm)": 65,
+            "Optical Thickness (nm)": 89.7
+        },
+        {
+            "Layer": "Layer 2",
+            "Material": "TiO2 (Titanium Dioxide)",
+            "Refractive Index (n)": 2.4,
+            "Physical Thickness (nm)": 97,
+            "Optical Thickness (nm)": 232.8
+        },
+        {
+            "Layer": "Layer 3",
+            "Material": "SiO2 (Silicon Dioxide)",
+            "Refractive Index (n)": 1.45,
+            "Physical Thickness (nm)": 195,
+            "Optical Thickness (nm)": 282.75
+        },
+        {
+            "Layer": "Substrate",
+            "Material": "Glass",
+            "Refractive Index (n)": 1.5,
+            "Physical Thickness (nm)": 0,
+            "Optical Thickness (nm)": 0
+        }
+    ]
+}

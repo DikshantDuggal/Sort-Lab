@@ -1,0 +1,6 @@
+Layer,Material,Refractive Index (n),Physical Thickness (nm),Optical Thickness (nm)
+Incident,Air,1.0,0,0.0
+Layer 1,MgF2 (Magnesium Fluoride),1.38,65,89.7
+Layer 2,TiO2 (Titanium Dioxide),2.4,97,232.8
+Layer 3,SiO2 (Silicon Dioxide),1.45,195,282.75
+Substrate,Glass,1.5,0,0.0
